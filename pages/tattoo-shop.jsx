@@ -28,7 +28,7 @@ const tattooshop = () => {
         <h2>Overview</h2>
         <p>
           I built this application in JS and is hosted on Vercel.
-          Developed a sleek tattoo shop website to highlight the studio's work,
+          Developed a sleek tattoo shop website to highlight the studio&apos;s work,
            attract potential clients, and provide essential service information
             and booking options. This project involved design research, mobile
              optimization, integrating Google Maps for location, creating a booking

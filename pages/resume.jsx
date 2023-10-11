@@ -97,7 +97,7 @@ const resume = () => {
             </span>
             <span className='px-2'>|</span>Hariyana, India
           </p>
-          <p className='py-1 italic'>Full Stack Developer (Jun'23 - Current)</p>
+          <p className='py-1 italic'>Full Stack Developer (Jun&apos;23 - Current)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
             Developed subscription system with API integration and payments 
@@ -123,7 +123,7 @@ const resume = () => {
             </span>
             <span className='px-2'>|</span>Hariyana, India
           </p>
-          <p className='py-1 italic'>Software Engineer (Nov'22 - Jan'23)</p>
+          <p className='py-1 italic'>Software Engineer (Nov&apos;22 - Jan&apos;23)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
             Constructed an SEO-optimized website for company using ReactJS, 
@@ -150,7 +150,7 @@ const resume = () => {
             </span>
             <span className='px-2'>|</span> West Bengal, India
           </p>
-          <p className='py-1 italic'>Research Intern    (Aug'22 - Dec'22)</p>
+          <p className='py-1 italic'>Research Intern    (Aug&apos;22 - Dec&apos;22)</p>
           <p className='py-1 italic'>Guide: Professor Rajib Mall </p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>

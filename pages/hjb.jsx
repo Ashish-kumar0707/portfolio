@@ -28,7 +28,7 @@ const hjb = () => {
         <h2>Overview</h2>
         <p>
           I built this application in JS and is hosted on Hostinger.
-          Contributed to the development of our Hall's website as a
+          Contributed to the development of our Hall&apos;s website as a
            valued member of the web team, enhancing its online presence 
            and user experience. Demonstrated expertise in web design
             and collaboration, showcasing my dedication to creating
