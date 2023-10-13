@@ -5,9 +5,9 @@ import propertyImg from "../public/assets/projects/property.jpg";
 import cryptoImg from "../public/assets/projects/crypto.jpg";
 import netflixImg from "../public/assets/projects/netflix.jpg";
 import twitchImg from "../public/assets/projects/twitch.jpg";
-import vendingImg from "../public/assets/projects/twitch.jpg";
-import hjbImg from "../public/assets/projects/twitch.jpg";
-import tattooImg from "../public/assets/projects/twitch.jpg";
+import vendingImg from "../public/assets/projects/vending.jpg";
+import hjbImg from "../public/assets/projects/hjb.jpg";
+import tattooImg from "../public/assets/projects/tattoo.jpg";
 import ProjectItem from "./ProjectItem";
 
 const Projects = () => {

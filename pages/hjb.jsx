@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import React from 'react';
-import tattooImg from "../public/assets/projects/twitch.jpg";
+import hjbImg from "../public/assets/projects/hjb.jpg";
 import { RiRadioButtonFill } from 'react-icons/ri';
 import Link from 'next/link';
 
@@ -13,7 +13,7 @@ const hjb = () => {
         className='absolute z-1'
         layout='fill'
         // objectFit='cover'
-        src={tattooImg}
+        src={hjbImg}
         alt='/'
       />
       <div className='absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2'>
