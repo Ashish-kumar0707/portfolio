@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import React from 'react';
-import tattooImg from "../public/assets/projects/tattooImg.png";
+import tattooImg from "../public/assets/projects/twitch.jpg";
 import { RiRadioButtonFill } from 'react-icons/ri';
 import Link from 'next/link';
 

@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import React from 'react';
 import { RiRadioButtonFill } from 'react-icons/ri';
-import vendingImg from "../public/assets/projects/vendingImg.png";
+import vendingImg from "../public/assets/projects/twitch.jpg";
 import Link from 'next/link';
 const vendingmachine = () => {
   return (

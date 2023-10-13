@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import React from 'react';
 import { RiRadioButtonFill } from 'react-icons/ri';
-import tattooImg from "../public/assets/projects/tattooImg.png";
+import tattooImg from "../public/assets/projects/twitch.jpg";
 import Link from 'next/link';
 
 const tattooshop = () => {
